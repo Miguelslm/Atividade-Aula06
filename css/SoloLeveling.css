@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: aliceblue;
+    background-color: rgba(43, 43, 43, 0.651);
+}
+
+body {
+    background-image: url(../img/BackGround1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+p {
+    background-color: rgba(43, 43, 43, 0.651);
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.PrincipalImg {
+    height: 600px;
+}
+
+img {
+    height: 300px;
+}
+
+.titulo {
+    background-color: rgba(43, 43, 43, 0.068);
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
