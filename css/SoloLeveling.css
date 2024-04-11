@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: aliceblue;
+}
+
+main, p {
+    background-color: rgba(43, 43, 43, 0.651);
+}
+
+nav {
+    background-color: rgba(43, 43, 43, 0.651);
+    text-align: center;
+    font-size: 25px;
+}
+
+.Header1 {
+    border: outset 4px rgba(0, 0, 0, 0.753);
+}
+
+.Header2 {
+    border: outset 4px rgba(0, 0, 0, 0.753);
+}
+
+.Header3 {
+    border: outset 4px rgba(0, 0, 0, 0.753);
+}
+
+
+body {
+    background-image: url(../img/BackGround1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+
+p {
+    background-color: rgba(43, 43, 43, 0.651);
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+figure {
+    text-align: left;
+}
+
+.PrincipalImg {
+    height: 600px;
+    text-align: left;
+}
+
+img {
+    height: 300px;
+    background-color: rgba(43, 43, 43, 0.651);
+}
+
+div {
+    border: inset 5px rgba(0, 0, 0, 0.753);
+    background-color: rgba(43, 43, 43, 0.651);
+}
+
+footer {
+    padding: 20px;
+    text-align: right;
+    background-color: rgba(43, 43, 43, 0.651);
+}
