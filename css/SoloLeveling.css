@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: aliceblue;
+    text-align: center;
+}
+
+main, p {
+    background-color: rgba(43, 43, 43, 0.651);
+}
+
+nav {
+    background-color: rgba(43, 43, 43, 0.651);
+    text-align: left;
+}
+
+.Header1 {
+    border: outset 4px rgba(0, 0, 0, 0.753);
+}
+
+.Header2 {
+    border: outset 4px rgba(0, 0, 0, 0.753);
+}
+
+.Header3 {
+    border: outset 4px rgba(0, 0, 0, 0.753);
+}
+
+h1 {
+    background-color: rgba(43, 43, 43, 0.651);
+    border: ridge 5px rgba(0, 0, 0, 0.753);
+}
+
+body {
+    background-image: url(../img/BackGround1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    text-align: center;
+}
+
+
+p {
+    background-color: rgba(43, 43, 43, 0.651);
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: groove 5px rgba(0, 0, 0, 0.459);
+}
+
+figure {
+    text-align: left;
+}
+
+.PrincipalImg {
+    height: 600px;
+    text-align: left;
+}
+
+img {
+    height: 300px;
+}
+
+h2 {
+    border: inset 5px rgba(0, 0, 0, 0.753);;
+    background-color: rgba(43, 43, 43, 0.651);
+}
+
+h3 {
+    border: inset 5px rgba(0, 0, 0, 0.753);;
+    background-color: rgba(43, 43, 43, 0.651);
+}
+
+footer {
+    text-align: right;
+    background-color: rgba(43, 43, 43, 0.651);
+}
+
+
